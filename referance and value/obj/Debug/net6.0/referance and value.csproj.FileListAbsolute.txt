@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\referance and value\referance and value\obj\Debug\net6.0\referance and value.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\referance and value\referance and value\obj\Debug\net6.0\referance and value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\referance and value\referance and value\obj\Debug\net6.0\referance and value.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\referance and value\referance and value\obj\Debug\net6.0\referance and value.AssemblyInfo.cs
+C:\Users\User\source\repos\referance and value\referance and value\obj\Debug\net6.0\referance and value.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\referance and value\referance and value\bin\Debug\net6.0\referance and value.exe
+C:\Users\User\source\repos\referance and value\referance and value\bin\Debug\net6.0\referance and value.deps.json
+C:\Users\User\source\repos\referance and value\referance and value\bin\Debug\net6.0\referance and value.runtimeconfig.json
+C:\Users\User\source\repos\referance and value\referance and value\bin\Debug\net6.0\referance and value.dll
+C:\Users\User\source\repos\referance and value\referance and value\bin\Debug\net6.0\referance and value.pdb
+C:\Users\User\source\repos\referance and value\referance and value\obj\Debug\net6.0\referance and value.dll
+C:\Users\User\source\repos\referance and value\referance and value\obj\Debug\net6.0\refint\referance and value.dll
+C:\Users\User\source\repos\referance and value\referance and value\obj\Debug\net6.0\referance and value.pdb
+C:\Users\User\source\repos\referance and value\referance and value\obj\Debug\net6.0\referance and value.genruntimeconfig.cache
+C:\Users\User\source\repos\referance and value\referance and value\obj\Debug\net6.0\ref\referance and value.dll
